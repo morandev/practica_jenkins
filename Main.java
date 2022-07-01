@@ -5,7 +5,7 @@ public class Main {
 	}
 
 	public static String saludar( String name ) {
-		return "Hi " + name + "!";
+		return "Hi or Hola " + name + "!";
 	}
 
 	public static String despedir( String name ) {
