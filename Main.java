@@ -8,4 +8,8 @@ public class Main {
 		return "Hi " + name + "!";
 	}
 
+	public static String despedir( String name ) {
+		return "Bye " + name;
+	}
+
 }
