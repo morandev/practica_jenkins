@@ -9,7 +9,7 @@ public class Main {
 	}
 
 	public static String despedir( String name ) {
-		return "Bye " + name;
+		return "Chau or Bye " + name;
 	}
 
 }
