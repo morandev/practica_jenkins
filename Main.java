@@ -1,7 +1,7 @@
 public class Main {
 
 	public static void main( String[] args ) { 
-		saludar( "morandev" );
+		saludar( "morandev dev" );
 	}
 
 	public static String saludar( String name ) {
